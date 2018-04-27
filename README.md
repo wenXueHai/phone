@@ -1,2 +1,2 @@
-# phone
-手机官网
+第一次使用GitHub
+练习使用GitHub
